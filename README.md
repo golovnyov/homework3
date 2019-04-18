@@ -1,5 +1,5 @@
 # homework3
-|             Method |      Mean |    Error |    StdDev |
-|------------------- |----------:|---------:|----------:|
-| UnionAllBarselonas |  93.13 ns | 1.013 ns | 0.8458 ns |
-|    UnionBarselonas | 129.99 ns | 1.491 ns | 1.3219 ns |
+|             Method |       Mean |    Error |    StdDev |
+|------------------- |-----------:|---------:|----------:|
+| UnionAllBarselonas |   346.4 us | 16.31 us |  21.77 us |
+|    UnionBarselonas | 4,073.6 us | 81.45 us | 124.38 us |
